@@ -5,3 +5,4 @@ print(django.get_version())
 """Ver.3"""
 """Ver.4"""
 """Ver.5"""
+"""Ver.6"""
